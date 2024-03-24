@@ -9,8 +9,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 - [Acknowledgments](Thankz for this challenger)
 
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/css-flexbox-Tl0Wbnd16T)
+- Live Site URL: [Add live site URL here](https://social-links-profile-main-jorge.netlify.app/)
 
 ## My process
 
