@@ -4,7 +4,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ## Table of contents
   - [The challenge](Social-link-profile-main)
-  - [Screenshot](/screenshot/)
+  - [Screenshot Mobile](./screenshot/Captura%20de%20pantalla%202024-03-23%20a%20las%2021.15.15.png)
+  - [Screenshot Desktop](./screenshot/Captura%20de%20pantalla%202024-03-23%20a%20las%2021.15.24.png)
 - [Acknowledgments](Thankz for this challenger)
 
 
